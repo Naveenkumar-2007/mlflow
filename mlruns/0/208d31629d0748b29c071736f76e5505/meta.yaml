@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/navee/OneDrive/Desktop/ml%20flow/mlruns/0/208d31629d0748b29c071736f76e5505/artifacts
+end_time: 1751468355664
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 208d31629d0748b29c071736f76e5505
+run_name: trusting-midge-695
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751468344919
+status: 3
+tags: []
+user_id: navee

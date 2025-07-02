@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/navee/OneDrive/Desktop/ml%20flow/mlruns/0/models/m-5005403d46b94ee79feae222081582d0/artifacts
+creation_timestamp: 1751468512435
+experiment_id: '0'
+last_updated_timestamp: 1751468518907
+model_id: m-5005403d46b94ee79feae222081582d0
+model_type: null
+name: model
+source_run_id: 7c5c1efdf4f04bafb8fabbbc85b6dfc2
+status: 2
+status_message: null
